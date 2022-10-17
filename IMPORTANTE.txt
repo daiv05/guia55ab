@@ -1,0 +1,31 @@
+DEBIDO A DISTINTOS PROBLEMAS NO SE ALCANZÓ A REALIZAR
+TODA LA GUIA
+
+POR ELLO SOLO SE PRACTICÓ EL DESPLIEGUE DE LA APP
+UTILIZANDO:
+- HEROKU
+- BASE DE DATOS MySQL ALOJADA EN UN SERVIDOR AZURE.
+
+Grupo : #1
+	
+Carnet	Apellido		    Nombre
+AE19001	Acosta Escobar	    Juan Carlos (coordinador)
+DC19019	Deras Cerros	    David Alejandro
+GA18097	Guardado Aguilar	Patrick Rodrigo
+LF18010	Lemus Fuentes	    Kevin Noé
+VR19026	Vásquez Rivas	    Delmy Arabella
+OD18003	Orellana Deras	    Alexis Alexánder
+OR15012	Orellana Ramírez	Dennis Ernesto
+TM18004	Torres Merlos	    Douglas Gustavo
+VP20007	Valladares Perez	Karla Veronica
+VA17011	Vásquez Avalos	    Oscar Rene
+
+
+Aplicacion desplegada:
+https://jsp55.herokuapp.com/
+
+
+Repositorio GitHub:
+https://github.com/daiv05/guia55ab
+
+
